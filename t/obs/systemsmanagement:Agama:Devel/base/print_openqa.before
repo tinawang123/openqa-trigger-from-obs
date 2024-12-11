@@ -6,6 +6,10 @@
  DISTRI=opensuse \
  FLAVOR=agama-installer \
  ISO=agama-installer.x86_64-9.0.0-openSUSE-Build17.25.iso \
+ MIRROR_HTTP=http://openqa.opensuse.org/assets/repo/agama-installer.x86_64-9.0.0-openSUSE-Build17.25 \
+ MIRROR_HTTPS=https://openqa.opensuse.org/assets/repo/agama-installer.x86_64-9.0.0-openSUSE-Build17.25 \
+ MIRROR_PREFIX=http://openqa.opensuse.org/assets/repo \
+ REPO_0=agama-installer.x86_64-9.0.0-openSUSE-Build17.25 \
  VERSION=agama-9.0 \
  _OBSOLETE=1
 
@@ -17,6 +21,10 @@
  DISTRI=opensuse \
  FLAVOR=agama-installer \
  ISO=agama-installer.aarch64-9.0.0-openSUSE-Build18.1.iso \
+ MIRROR_HTTP=http://openqa.opensuse.org/assets/repo/agama-installer.aarch64-9.0.0-openSUSE-Build18.1 \
+ MIRROR_HTTPS=https://openqa.opensuse.org/assets/repo/agama-installer.aarch64-9.0.0-openSUSE-Build18.1 \
+ MIRROR_PREFIX=http://openqa.opensuse.org/assets/repo \
+ REPO_0=agama-installer.aarch64-9.0.0-openSUSE-Build18.1 \
  VERSION=agama-9.0 \
  _OBSOLETE=1
 
@@ -28,6 +36,10 @@
  DISTRI=opensuse \
  FLAVOR=agama-installer \
  ISO=agama-installer.ppc64le-9.0.0-openSUSE-Build18.1.iso \
+ MIRROR_HTTP=http://openqa.opensuse.org/assets/repo/agama-installer.ppc64le-9.0.0-openSUSE-Build18.1 \
+ MIRROR_HTTPS=https://openqa.opensuse.org/assets/repo/agama-installer.ppc64le-9.0.0-openSUSE-Build18.1 \
+ MIRROR_PREFIX=http://openqa.opensuse.org/assets/repo \
+ REPO_0=agama-installer.ppc64le-9.0.0-openSUSE-Build18.1 \
  VERSION=agama-9.0 \
  _OBSOLETE=1
 
